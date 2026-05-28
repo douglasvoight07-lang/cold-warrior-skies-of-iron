@@ -24,3 +24,9 @@ dist/
 # Environment
 .env
 .env.local
+
+# Godot 4
+.godot/
+*.uid
+export_presets.cfg
+*.import
