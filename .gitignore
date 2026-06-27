@@ -1,0 +1,32 @@
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+
+# Visual Studio / VS Code
+.vs/
+*.user
+*.suo
+.vscode/
+
+# Build output
+bin/
+obj/
+build/
+dist/
+
+# Logs
+*.log
+
+# Environment
+.env
+.env.local
+
+# Godot 4
+.godot/
+*.uid
+export_presets.cfg
+*.import
